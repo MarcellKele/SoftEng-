@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boat_webapi", "boat_webapi\boat_webapi.csproj", "{8932B737-6889-44A0-9DF4-2270503979E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8932B737-6889-44A0-9DF4-2270503979E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8932B737-6889-44A0-9DF4-2270503979E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8932B737-6889-44A0-9DF4-2270503979E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8932B737-6889-44A0-9DF4-2270503979E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493169C5-0CDA-4A38-87C8-553EF636DEEE}
+	EndGlobalSection
+EndGlobal
